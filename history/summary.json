@@ -4,9 +4,9 @@
     "url": "https://muntasirmahmud.me/",
     "icon": "https://icons.duckduckgo.com/ip3/muntasirmahmud.me.ico",
     "slug": "my-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 399,
     "timeMonth": 367,
     "timeYear": 389,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-30": 0
+    }
   },
   {
     "name": "AI Tic Tac Toe",
     "url": "https://muntasirmahmud.me/AiTicTacToe/",
     "icon": "https://icons.duckduckgo.com/ip3/muntasirmahmud.me.ico",
     "slug": "ai-tic-tac-toe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,14 +35,16 @@
     "timeWeek": 132,
     "timeMonth": 110,
     "timeYear": 81,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-30": 0
+    }
   },
   {
     "name": "Linux Commands Cheat Sheet",
     "url": "https://muntasirmahmud.me/LinuxCommandsCheatSheet",
     "icon": "https://icons.duckduckgo.com/ip3/muntasirmahmud.me.ico",
     "slug": "linux-commands-cheat-sheet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
