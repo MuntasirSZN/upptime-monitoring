@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/muntasirszn.github.io.ico",
     "slug": "my-domain",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 350,
-    "timeDay": 370,
-    "timeWeek": 297,
-    "timeMonth": 302,
+    "time": 351,
+    "timeDay": 373,
+    "timeWeek": 325,
+    "timeMonth": 303,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2025-06-30": 89
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 89,
-    "timeDay": 146,
-    "timeWeek": 119,
-    "timeMonth": 122,
-    "timeYear": 92,
+    "timeDay": 244,
+    "timeWeek": 147,
+    "timeMonth": 124,
+    "timeYear": 93,
     "dailyMinutesDown": {
       "2025-06-30": 89
     }
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 134,
-    "timeDay": 170,
-    "timeWeek": 139,
-    "timeMonth": 174,
+    "time": 135,
+    "timeDay": 218,
+    "timeWeek": 160,
+    "timeMonth": 171,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2025-06-30": 89
