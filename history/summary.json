@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 351,
-    "timeDay": 417,
-    "timeWeek": 346,
-    "timeMonth": 310,
-    "timeYear": 361,
+    "time": 350,
+    "timeDay": 165,
+    "timeWeek": 327,
+    "timeMonth": 302,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2025-06-30": 89
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/muntasirszn.github.io.ico",
     "slug": "ai-tic-tac-toe",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 90,
-    "timeDay": 239,
+    "timeDay": 40,
     "timeWeek": 145,
-    "timeMonth": 131,
+    "timeMonth": 125,
     "timeYear": 94,
     "dailyMinutesDown": {
       "2025-06-30": 89
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/muntasirszn.github.io.ico",
     "slug": "linux-commands-cheat-sheet",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 135,
-    "timeDay": 383,
-    "timeWeek": 193,
-    "timeMonth": 182,
-    "timeYear": 143,
+    "timeDay": 52,
+    "timeWeek": 192,
+    "timeMonth": 173,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2025-06-30": 89
     }
